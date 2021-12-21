@@ -1,5 +1,5 @@
 ### Hi 
-#### I'm Rafael 'ROM-PacMe/bm0x' Pacheco
+#### I'm Rafael 'bm0x' Pacheco
 ---
 <!--
 **ROM-PacMe/ROM-PacMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
