@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![bm0x github stats](https://github-readme-stats.vercel.app/api?username=bm0x&show_icons=true&theme=radical&count_private=true&show_owner=true&include_all_commits=true&layout=compact)      ![bm0x github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bm0x&show_icons=true&theme=radical&count_private=true&show_owner=true&include_all_commits=true&layout=compact)
-
----
-[![trophy](https://github-profile-trophy.vercel.app/?username=bm0x&theme=radical&title=MultiLanguage,Organizations,Repositories,Stars,Commit,PullRequest)](https://github.com/ROM-PacMe/bm0x)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sparxfusion&style=flat-square" alt="bm0x" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bm0x&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="stats"/><br></p>
