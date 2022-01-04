@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=bm0x&theme=radical&title=MultiLanguage,Organizations,Repositories,Stars,Commit,PullRequest)](https://github.com/ROM-PacMe/bm0x)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sparxfusion&style=flat-square" alt="bm0x" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bm0x&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="stats"/><br></p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bm0x&theme=dark"/></p>
