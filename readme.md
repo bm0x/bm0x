@@ -1,9 +1,7 @@
 ### Hi 
 #### I'm Rafael 'bm0x' Pacheco
 ---
-**ROM-PacMe/ROM-PacMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**ROM-PacMe/ROM-PacMe** is ✨ _special_ ✨
 
 #
 - 🔭 I’m currently working on @FluentOS-Project
