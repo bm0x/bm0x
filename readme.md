@@ -14,4 +14,4 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sparxfusion&style=flat-square" alt="bm0x" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bm0x&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="stats"/><br></p>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bm0x&theme=dark"/></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00p513-dev&langs_count=14&theme=nord&layout=compact" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bm0x&langs_count=14&theme=dark&layout=compact" /></p>
