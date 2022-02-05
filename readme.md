@@ -1,7 +1,7 @@
 ### Hi 
-#### I'm Rafael 'bm0x' Pacheco
+#### I'm Rafael 'bm0x' Méndez
 ---
-**Rafael "bm0x" Pacheco Méndez* is ✨ _special_ ✨**
+**Rafael "bm0x" Méndez Pacheco* is ✨ _special_ ✨**
 
 #
 - 🔭 I’m currently working on @FluentOS-Project
