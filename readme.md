@@ -11,7 +11,7 @@
 - 💬 Ask me about lazy things... hehe...
 
 
-Lastests Projects: 
+Latests Projects: 
 - FluentyMirrorLauncher [![Netlify Status](https://api.netlify.com/api/v1/badges/28379d11-77a2-429f-84f3-5029bf25b2b7/deploy-status)](https://app.netlify.com/sites/cool-hamster-bff0d5/deploys)
 - Web-API-Loging (Python Testing)
 
