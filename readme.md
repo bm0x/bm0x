@@ -11,8 +11,9 @@
 - 💬 Ask me about lazy things... hehe...
 
 
-Last Project: FluentyMirrorLauncher
-[![Netlify Status](https://api.netlify.com/api/v1/badges/28379d11-77a2-429f-84f3-5029bf25b2b7/deploy-status)](https://app.netlify.com/sites/cool-hamster-bff0d5/deploys)
+Lastests Projects: 
+- FluentyMirrorLauncher [![Netlify Status](https://api.netlify.com/api/v1/badges/28379d11-77a2-429f-84f3-5029bf25b2b7/deploy-status)](https://app.netlify.com/sites/cool-hamster-bff0d5/deploys)
+- Web-API-Loging (Python Testing)
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dbm0x&longCache=true)](https://github.com/bm0x)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sparxfusion&style=flat-square" alt="bm0x" /> </p>
