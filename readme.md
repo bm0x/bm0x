@@ -24,7 +24,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bm0x&theme=dracula&column=4" alt="bm0x" /></a> </p>
 <!-- STATS Y LENGUAJES MAS USADOS -->
 <div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:50%;width:30%;max-width: 5%" src="https://github-readme-stats.vercel.app/api?username=bm0x&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img style="height:70%;width:45%;max-width: 5%" src="https://github-readme-stats.vercel.app/api?username=bm0x&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
   <img style="height:50%;width:30%;max-width: 5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bm0x&layout=compact&theme=gotham&langs_count=8"/>
 </div>
 
