@@ -26,6 +26,7 @@
 <div style="display:grid;align-items:center;justify-content:center">
   <img style="height:70%;width:45%;max-width: 5%" src="https://github-readme-stats.vercel.app/api?username=bm0x&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
   <img style="height:50%;width:30%;max-width: 5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bm0x&layout=compact&theme=gotham&langs_count=8"/>
+  <img style="height:70%;width:40%;max-width: 5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bm0x&theme=gotham"/>
 </div>
 
 <!--PROYECTOS ACTUALES-->
