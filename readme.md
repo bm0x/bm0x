@@ -13,7 +13,7 @@
 
 - 🌱 Actualmente estudiando tecnologías web, mi fuerte es la programación de sistemas operativos basados en Android, tengame paciencia jejeje
 
-- 🏙 CEO del Proyecto [FluentOS-Project](https://github.com/FluentOS-Project)
+- 🏙 CEO del Proyecto/Startup [FluentDev Inc.](https://github.com/FluentDev_inc)
 
 - 📫 Puedes contactarme al correo: **bm0x.dev23@gmail.com**
 
