@@ -11,6 +11,8 @@
 
 - 🌱 Estudiando la Carrera de **Técnico en Programación y Análisis de Datos**
 
+- 🌱 Actualmente estudiando tecnologías web, mi fuerte es la programación de sistemas operativos basados en Android, tengame paciencia jejeje
+
 - 🏙 CEO del Proyecto [FluentOS-Project](https://github.com/FluentOS-Project)
 
 - 📫 Puedes contactarme al correo: **bm0x.dev23@gmail.com**
