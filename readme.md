@@ -3,8 +3,7 @@
 
 <!-- PÁGINA EN CONSTRUCCIÓN DE MOMENTO-->
 
-<h1>README En Construcción...</h1>
-<h1>Estamos trabajando en esto que quedó abandonado de hace tiempo :3</h1>
+<h1>RAFAEL (bm0x) MENDEZ</h1>
 
 <!-- BREVE DESCRIPCION -->
 - 📚 Actualmente soy estudiante de Informática en [Instituto AIEP](https://www.aiep.cl/)
