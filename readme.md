@@ -33,7 +33,7 @@
 <!--PROYECTOS ACTUALES-->
 <p align="left">PROYECTOS ACTUALES</p>
 
-- FluentyMirrorLauncher [![Netlify Status](https://api.netlify.com/api/v1/badges/28379d11-77a2-429f-84f3-5029bf25b2b7/deploy-status)](https://app.netlify.com/sites/cool-hamster-bff0d5/deploys)
+- FluentMirrorLauncher (BETA 2) [![Netlify Status](https://api.netlify.com/api/v1/badges/7e52e0dc-8e1e-4872-bf3a-c12749c7b9d1/deploy-status)](https://app.netlify.com/sites/fluent-mirror2-beta/deploys)
 
 - Web-API-Loging (Python Testing)
 
