@@ -8,11 +8,15 @@
 <!-- BREVE DESCRIPCION -->
 - 📚 Actualmente soy estudiante de Informática en [Instituto AIEP](https://www.aiep.cl/)
 
+- Poseo conocimiento y nociones de informática desde la edad de 11 años, actualmente poseo 13 años de experiencia en el rubro. Mi github es mi portafolio personal en donde me gusta explorar y explotar mis capacidades dentro del ambito de la informatica.
+
 - 🌱 Estudiando la Carrera de **Técnico en Programación y Análisis de Datos**
 
-- 🌱 Actualmente estudiando tecnologías web, mi fuerte es la programación de sistemas operativos basados en Android, tengame paciencia jejeje
+- 🌱 Actualmente estudiando tecnologías web, mi fuerte es la programación de sistemas operativos basados en Android.
 
-- 🏙 CEO del Proyecto/Startup [FluentDev Inc.](https://github.com/FluentDev_inc)
+- 🏙 Dueño del Proyecto/Startup de Sistemas Operativos de Android: [FluentDev Inc.](https://github.com/FluentDev_inc)
+  
+- 🏙 Dueño/CEO de [PlayCon.cl](www.instagram.com/playcon.cl)
 
 - 📫 Puedes contactarme al correo: **bm0x.dev23@gmail.com**
 
