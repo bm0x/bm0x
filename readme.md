@@ -8,7 +8,7 @@
 <!-- BREVE DESCRIPCION -->
 - 📚 Actualmente soy estudiante de Informática en [Instituto AIEP](https://www.aiep.cl/)
 
-- Poseo conocimiento y nociones de informática desde la edad de 11 años, actualmente poseo 13 años de experiencia en el rubro. Mi github es mi portafolio personal en donde me gusta explorar y explotar mis capacidades dentro del ambito de la informatica.
+- Poseo experiencia en informática desde la edad de 11 años, actualmente poseo 13 años de experiencia en el rubro. Mi github es mi portafolio personal en donde me gusta explorar y explotar mis capacidades dentro del ambito de la informatica.
 
 - 🌱 Estudiando la Carrera de **Técnico en Programación y Análisis de Datos**
 
