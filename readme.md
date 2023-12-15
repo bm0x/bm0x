@@ -18,6 +18,8 @@
   
 - 🏙 Dueño/CEO de [PlayCon.cl](www.instagram.com/playcon.cl)
 
+- 🏙 Programador Web Freelancer para [Agencia de Marketing Digital NEXO](https://agencianexo.cl)
+
 - 📫 Puedes contactarme al correo: **bm0x.dev23@gmail.com**
 
 <!-- VISTAS DEL PERFIL -->
