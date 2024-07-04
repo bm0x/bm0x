@@ -36,7 +36,8 @@
   <img style="height:90%;width:75%;max-width: 25%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bm0x&theme=gotham"/>
   <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=bm0x&theme=gotham" />
 </div>
-
+<br>
+<br>
 <!--PROYECTOS ACTUALES-->
 <p align="left">PROYECTOS ACTUALES</p>
 
