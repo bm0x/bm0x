@@ -23,7 +23,7 @@
 - 📫 Puedes contactarme al correo: **bm0x.dev23@gmail.com**
 
 <!-- VISTAS DEL PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bm0x&label=Profile%20views&color=0e75b6&style=flat" alt="bm0x" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bm0x&label=Profile%20views&color=0e75b6&style=flat" alt="bm0x" /></p>
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dbm0x&longCache=true)](https://github.com/bm0x)
 
@@ -40,13 +40,16 @@
 <!--PROYECTOS ACTUALES-->
 <p align="left">PROYECTOS ACTUALES</p>
 
-- FluentMirrorLauncher (BETA 2) [![Netlify Status](https://api.netlify.com/api/v1/badges/7e52e0dc-8e1e-4872-bf3a-c12749c7b9d1/deploy-status)](https://app.netlify.com/sites/fluent-mirror2-beta/deploys)
+- FluentMirrorLauncher (BETA 2)
 
 - Web-API-Loging (Python Testing)
 
+- pcLanyard: un proyecto personal que hago para facilitar marketing digital en dispositivos moviles
+
 <!--GAMING-->
 <h3>Gametags:</h3>
-<p><img src="https://www.vectorlogo.zone/logos/xbox/xbox-icon.svg" alt="" width="40" height="40"<p align="center"> bm0x#9695</p></p>
+<p><img src="https://www.vectorlogo.zone/logos/xbox/xbox-icon.svg" alt="" width="40" height="40"><p text-align="center"> bm0x#9695</p></p>
+<p><img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" width="40" height="40"><p text-align="center">FaKe bm0x</p></p>
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h3 align="left">Languages and Tools:</h3>
