@@ -47,6 +47,8 @@
 
 - pcLanyard: un proyecto personal que hago para facilitar marketing digital en dispositivos moviles
 
+- Strape-Index: Un proyecto de ERP Laboral bajo la licencia de pcLanyard para poder realizar gestiones internas.
+
 <!--GAMING-->
 <h3>Gametags:</h3>
 <p><img src="https://www.vectorlogo.zone/logos/xbox/xbox-icon.svg" alt="" width="40" height="40"><p text-align="center"> bm0x#9695</p></p>
