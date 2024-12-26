@@ -6,19 +6,19 @@
 <h1>RAFAEL (bm0x) MENDEZ</h1>
 
 <!-- BREVE DESCRIPCION -->
-- 📚 Actualmente soy estudiante de Informática en [Instituto AIEP](https://www.aiep.cl/)
+- 📚 Actualmente soy estudiante de Ingeniería Informática en [Instituto AIEP](https://www.aiep.cl/)
 
 - Poseo experiencia en informática desde la edad de 11 años, actualmente poseo 14 años de experiencia en el rubro. Mi github es mi portafolio personal en donde me gusta explorar y explotar mis capacidades dentro del ambito de la informatica.
 
-- 🌱 Estudiando la Carrera de **Técnico en Programación y Análisis de Datos**
+- 🌱 Estudiando la Carrera de **INGENIERÍA DE EJECUCIÓN EN INFORMÁTICA MENCIÓN, DESARROLLO DE SISTEMAS**
 
 - 🌱 Actualmente estudiando tecnologías web, mi fuerte es la programación de sistemas operativos basados en Android.
 
 - 🏙 Dueño del Proyecto/Startup de Sistemas Operativos de Android: [FluentDev Inc.](https://github.com/FluentDev_inc)
   
-- 🏙 Dueño/CEO de [PlayCon.cl](www.instagram.com/playcon.cl)
+- 🏙 Dueño/CEO de [Nexus PRO Multiservicios S.A](www.instagram.com/nexus_pro.cl)
 
-- 🏙 Programador Web Freelancer para [Agencia de Marketing Digital NEXO](https://agencianexo.cl)
+- 🏙 Programador Web Freelancer.
 
 - 📫 Puedes contactarme al correo: **bm0x.dev23@gmail.com**
 
@@ -41,13 +41,13 @@
 <!--PROYECTOS ACTUALES-->
 <p align="left">PROYECTOS ACTUALES</p>
 
-- FluentMirrorLauncher (BETA 2)
+- pcLanyard y LanyardWeb: un proyecto personal que hago para facilitar marketing digital en dispositivos moviles y formato Web (Bajo Licencia de NexusPRO Multiservicios S.A)
 
-- Web-API-Loging (Python Testing)
+- pcLanyard: [![Deploy static content to Pages](https://github.com/bm0x/pcLanyard/actions/workflows/static.yml/badge.svg)](https://github.com/bm0x/pcLanyard/actions/workflows/static.yml)
+- LanyardWeb: [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/bm0x/LanyardWeb/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/bm0x/LanyardWeb/actions/workflows/jekyll-gh-pages.yml)
 
-- pcLanyard: un proyecto personal que hago para facilitar marketing digital en dispositivos moviles
-
-- Strape-Index: Un proyecto de ERP Laboral bajo la licencia de pcLanyard para poder realizar gestiones internas.
+- NexusPRO: un ERP de Gestión Laboral, en Fase Temprana de Desarollo (Código Privativo) (Bajo Licencia de NexusPRO Multiservicios S.A).
+[![Desarrollo de ERP](https://github.com/bm0x/NexusPRO/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/bm0x/NexusPRO/actions/workflows/pages/pages-build-deployment)
 
 <!--GAMING-->
 <h3>Gametags:</h3>
