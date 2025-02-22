@@ -1,62 +1,117 @@
-<!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<h3 align="center">Hi 👋! My name is bm0x (Rafael Méndez) and I'm a Full-Stack / Android Developer, from Chile</h3>
 
-<!-- PÁGINA EN CONSTRUCCIÓN DE MOMENTO-->
+###
 
-<h1>RAFAEL (bm0x) MENDEZ</h1>
-
-<!-- BREVE DESCRIPCION -->
-- 📚 Actualmente soy estudiante de Ingeniería Informática en [Instituto AIEP](https://www.aiep.cl/)
-
-- Poseo experiencia en informática desde la edad de 11 años, actualmente poseo 14 años de experiencia en el rubro. Mi github es mi portafolio personal en donde me gusta explorar y explotar mis capacidades dentro del ambito de la informatica.
-
-- 🌱 Estudiando la Carrera de **INGENIERÍA DE EJECUCIÓN EN INFORMÁTICA MENCIÓN, DESARROLLO DE SISTEMAS**
-
-- 🌱 Actualmente estudiando tecnologías web, mi fuerte es la programación de sistemas operativos basados en Android.
-
-- 🏙 Dueño del Proyecto/Startup de Sistemas Operativos de Android: [FluentDev Inc.](https://github.com/FluentDev_inc)
-  
-- 🏙 Dueño/CEO de [Nexus PRO Multiservicios S.A](www.instagram.com/nexus_pro.cl)
-
-- 🏙 Programador Web Freelancer.
-
-- 📫 Puedes contactarme al correo: **bm0x.dev23@gmail.com**
-
-<!-- VISTAS DEL PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bm0x&label=Profile%20views&color=0e75b6&style=flat" alt="bm0x" /></p>
-
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dbm0x&longCache=true)](https://github.com/bm0x)
-
-<!-- TROFEOS GITHUB -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bm0x&theme=dracula&column=4" alt="bm0x" /></a> </p>
-<!-- STATS Y LENGUAJES MAS USADOS -->
-<div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:70%;width:45%;max-width: 5%" src="https://github-readme-stats.vercel.app/api?username=bm0x&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img style="height:50%;width:30%;max-width: 5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bm0x&layout=compact&theme=gotham&langs_count=8"/>
-  <img style="height:90%;width:75%;max-width: 25%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bm0x&theme=gotham"/>
-  <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=bm0x&theme=gotham" />
+<div align="left">
+  <a href="https://www.instagram.com/idk_bm0x" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://twitch.tv/elbm0x" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="maito:rafy.pachecomendez@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 </div>
-<br>
-<br>
-<!--PROYECTOS ACTUALES-->
-<p align="left">PROYECTOS ACTUALES</p>
 
-- pcLanyard y LanyardWeb: un proyecto personal que hago para facilitar marketing digital en dispositivos moviles y formato Web (Bajo Licencia de NexusPRO Multiservicios S.A)
+###
 
-- pcLanyard: [![Deploy static content to Pages](https://github.com/bm0x/pcLanyard/actions/workflows/static.yml/badge.svg)](https://github.com/bm0x/pcLanyard/actions/workflows/static.yml)
-- LanyardWeb: [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/bm0x/LanyardWeb/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/bm0x/LanyardWeb/actions/workflows/jekyll-gh-pages.yml)
+<br clear="both">
 
-- NexusPRO: un ERP de Gestión Laboral, en Fase Temprana de Desarollo (Código Privativo) (Bajo Licencia de NexusPRO Multiservicios S.A).
-[![Desarrollo de ERP](https://github.com/bm0x/NexusPRO/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/bm0x/NexusPRO/actions/workflows/pages/pages-build-deployment)
+<img align="right" height="200" src="https://media1.tenor.com/m/Wi1ZJSY5U8gAAAAC/toji-fushiguro.gif"  />
 
-<!--GAMING-->
-<h3>Gametags:</h3>
-<p><img src="https://www.vectorlogo.zone/logos/xbox/xbox-icon.svg" alt="" width="40" height="40"><p text-align="center"> bm0x#9695</p></p>
-<p><img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" width="40" height="40"><p text-align="center">FaKe bm0x</p></p>
+###
 
-<!-- LENGUAJES Y HERRAMIENTAS -->
-<h3 align="left">Languages and Tools:</h3>
-<p><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="" width="40" height="40"/></p>
+<div align="left">
+  <a href="https://open.spotify.com/user/12140273975">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=12140273975&count=3" alt="Spotify recently played"  />
+  </a>
+</div>
 
-<!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/bm0x/bm0x/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" height="30" alt="codepen logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="eslint logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="30" alt="ionic logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/bm0x/count.svg?"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=bm0x&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=es&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=bm0x&locale=es&mode=weekly&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bm0x&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=aura&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=bm0x&theme=apprentice&column=5" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bm0x&theme=one-dark" height="150" alt="activity-graph graph"  />
+</div>
+
+###
