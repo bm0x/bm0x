@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! My name is bm0x (Rafael Méndez) and I'm a Full-Stack / Android Developer, from Chile</h3>
+<h3 align="center">Hi 👋! My name is bm0x (Rafael Méndez) and I'm a Web Full-Stack / Android Developer, from Chile</h3>
 
 ###
 
