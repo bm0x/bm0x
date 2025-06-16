@@ -1,4 +1,5 @@
-<h3 align="center">Hi 👋! My name is bm0x (Rafael Méndez) and I'm a Web Full-Stack / Android Developer, from Chile</h3>
+<h2 align="center">Hola 👋! Mi Nombre es bm0x (Rafael Méndez) y sou un Desarrollador Web Full-Stack / Android, desde Los Ángeles Chile</h3>
+<h3 align="center">⭐ Actual Top 7 Semanal de Contribuciones Totales en Github ⭐</h2>
 
 ###
 
