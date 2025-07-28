@@ -26,6 +26,20 @@
   </a>
 </div>
 
+<!-- Aquí la nueva sección de badges sociales -->
+
+<div align="center" style="margin-top: 10px; margin-bottom: 20px;">
+  <a href="https://github.com/bm0x" target="_blank" title="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/bm0x?label=Followers&style=for-the-badge&color=2b9348" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/bm0x/bm0x/watchers" target="_blank" title="GitHub Watchers" style="margin-left: 10px;">
+    <img src="https://img.shields.io/github/watchers/bm0x/bm0x?label=Watchers&style=for-the-badge&color=1e40af" alt="GitHub Watchers" />
+  </a>
+  <a href="https://github.com/bm0x" target="_blank" title="GitHub Stars" style="margin-left: 10px;">
+    <img src="https://img.shields.io/github/stars/bm0x?label=Stars&style=for-the-badge&color=ef4444" alt="GitHub Stars" />
+  </a>
+</div>
+
 ---
 
 <br clear="both">
@@ -70,7 +84,15 @@
 ---
 
 <div align="center">
-  ![GitHub watchers](https://img.shields.io/github/watchers/bm0x/bm0x?style=social)
+  <a href="https://github.com/bm0x" target="_blank" title="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/bm0x?label=Followers&style=for-the-badge&color=2b9348" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/bm0x/bm0x/watchers" target="_blank" title="GitHub Watchers" style="margin-left: 10px;">
+    <img src="https://img.shields.io/github/watchers/bm0x/bm0x?label=Watchers&style=for-the-badge&color=1e40af" alt="GitHub Watchers" />
+  </a>
+  <a href="https://github.com/bm0x" target="_blank" title="GitHub Stars" style="margin-left: 10px;">
+    <img src="https://img.shields.io/github/stars/bm0x?label=Stars&style=for-the-badge&color=ef4444" alt="GitHub Stars" />
+  </a>
 </div>
 
 ---
