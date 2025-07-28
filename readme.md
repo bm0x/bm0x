@@ -1,118 +1,95 @@
-<h2 align="center">Hola 👋! Mi Nombre es bm0x (Rafael Méndez) y sou un Desarrollador Web Full-Stack / Android, desde Los Ángeles Chile</h3>
-<h3 align="center">⭐ Actual Top 7 Semanal de Contribuciones Totales en Github ⭐</h2>
+<h2 align="center">👋 ¡Hola! Soy <strong>bm0x</strong> (Rafael Méndez)</h2>
+<h3 align="center">🌎 Full-Stack / Android Developer desde Los Ángeles, Chile</h3>
+<h4 align="center">⭐ Actualmente en el Top 7 Semanal de Contribuciones Totales en GitHub Chile ⭐</h4>
 
-###
+<p align="center">🚀 Construyo soluciones confiables, escalables y humanas.<br>💡 Apasionado por la innovación útil, la tecnología accesible y la evolución constante.</p>
 
-<div align="left">
+<br>
+
+<p align="center">
+  <a href="https://github.com/sponsors/bm0x">
+    <img src="https://img.shields.io/badge/%F0%9F%92%96%20Ap%C3%B3yame%20en%20GitHub%20Sponsors-orange?style=for-the-badge" alt="Apóyame en GitHub Sponsors" />
+  </a>
+</p>
+
+---
+
+<div align="center">
   <a href="https://www.instagram.com/idk_bm0x" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
   </a>
   <a href="https://twitch.tv/elbm0x" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="35" alt="Twitch" />
   </a>
-  <a href="maito:rafy.pachecomendez@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:rafy.pachecomendez@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
   </a>
 </div>
 
-###
+---
 
 <br clear="both">
 
-<img align="right" height="200" src="https://media1.tenor.com/m/Wi1ZJSY5U8gAAAAC/toji-fushiguro.gif"  />
-
-###
+<img align="right" height="200" src="https://media1.tenor.com/m/Wi1ZJSY5U8gAAAAC/toji-fushiguro.gif" />
 
 <div align="left">
   <a href="https://open.spotify.com/user/12140273975">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=12140273975&count=3" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=12140273975&count=3" alt="Spotify recently played" />
   </a>
 </div>
 
-###
+---
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/bm0x/bm0x/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" height="30" alt="codepen logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="30" alt="ionic logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-</div>
-
-###
+---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/bm0x/count.svg?"  />
+  <h3>🧠 Tecnologías que uso y amo:</h3>
 </div>
-
-###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bm0x&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=es&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=bm0x&locale=es&mode=weekly&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bm0x&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=aura&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=bm0x&theme=apprentice&column=5" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bm0x&theme=one-dark" height="150" alt="activity-graph graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="Vue" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" alt="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash" />
 </div>
 
-###
+---
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/bm0x/count.svg?" alt="Visitas" />
+</div>
+
+---
+
+<div align="center">
+  <h3>📊 Estadísticas y actividad</h3>
+</div>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=bm0x&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=es&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=bm0x&locale=es&mode=weekly&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bm0x&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=aura&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=bm0x&theme=apprentice&column=5" height="150" alt="trophy graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bm0x&theme=one-dark" height="150" alt="activity-graph graph" />
+</div>
+
+---
+
+<p align="center">
+  <strong>Gracias por visitar mi perfil. ¡Sigamos creando soluciones con propósito! 🚀</strong><br>
+  <em>— bm0x (Rafael Méndez)</em>
+</p>
