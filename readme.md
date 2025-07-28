@@ -70,7 +70,7 @@
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/bm0x/count.svg?" alt="Visitas" />
+  ![GitHub watchers](https://img.shields.io/github/watchers/bm0x/bm0x?style=social)
 </div>
 
 ---
