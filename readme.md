@@ -32,9 +32,6 @@
   <a href="https://github.com/bm0x" target="_blank" title="GitHub Followers">
     <img src="https://img.shields.io/github/followers/bm0x?label=Followers&style=for-the-badge&color=2b9348" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/bm0x/bm0x/watchers" target="_blank" title="GitHub Watchers" style="margin-left: 10px;">
-    <img src="https://img.shields.io/github/watchers/bm0x/bm0x?label=Watchers&style=for-the-badge&color=1e40af" alt="GitHub Watchers" />
-  </a>
   <a href="https://github.com/bm0x" target="_blank" title="GitHub Stars" style="margin-left: 10px;">
     <img src="https://img.shields.io/github/stars/bm0x?label=Stars&style=for-the-badge&color=ef4444" alt="GitHub Stars" />
   </a>
@@ -79,20 +76,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash" />
-</div>
-
----
-
-<div align="center">
-  <a href="https://github.com/bm0x" target="_blank" title="GitHub Followers">
-    <img src="https://img.shields.io/github/followers/bm0x?label=Followers&style=for-the-badge&color=2b9348" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/bm0x/bm0x/watchers" target="_blank" title="GitHub Watchers" style="margin-left: 10px;">
-    <img src="https://img.shields.io/github/watchers/bm0x/bm0x?label=Watchers&style=for-the-badge&color=1e40af" alt="GitHub Watchers" />
-  </a>
-  <a href="https://github.com/bm0x" target="_blank" title="GitHub Stars" style="margin-left: 10px;">
-    <img src="https://img.shields.io/github/stars/bm0x?label=Stars&style=for-the-badge&color=ef4444" alt="GitHub Stars" />
-  </a>
 </div>
 
 ---
