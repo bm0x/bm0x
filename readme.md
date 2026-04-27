@@ -1,14 +1,13 @@
-<h2 align="center">👋 ¡Hola! Soy <strong>bm0x</strong> (Rafael Méndez)</h2>
-<h3 align="center">🌎 Full-Stack / Android Developer desde Los Ángeles, Chile</h3>
-<h4 align="center">⭐ Actualmente en el Top 7 Semanal de Contribuciones Totales en GitHub Chile ⭐</h4>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A277FF&center=true&vCenter=true&width=600&lines=👋+¡Hola!+Soy+bm0x+(Rafael+Méndez);Full-Stack+%2F+Android+Developer;Construyo+soluciones+con+propósito+🚀" alt="Typing SVG" />
+</div>
 
-<p align="center">🚀 Construyo soluciones confiables, escalables y humanas.<br>💡 Apasionado por la innovación útil, la tecnología accesible y la evolución constante.</p>
-
-<br>
+<h3 align="center">🌎 Desarrollador desde Los Ángeles, Chile</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bm0x&label=Visitas+al+perfil&color=a277ff&style=for-the-badge" alt="Profile views" />
   <a href="https://github.com/sponsors/bm0x">
-    <img src="https://img.shields.io/badge/%F0%9F%92%96%20Ap%C3%B3yame%20en%20GitHub%20Sponsors-orange?style=for-the-badge" alt="Apóyame en GitHub Sponsors" />
+    <img src="https://img.shields.io/badge/%F0%9F%92%96%20Apóyame%20en%20GitHub%20Sponsors-orange?style=for-the-badge" alt="Apóyame en GitHub Sponsors" />
   </a>
 </p>
 
@@ -26,70 +25,75 @@
   </a>
 </div>
 
-<!-- Aquí la nueva sección de badges sociales -->
-
-<div align="center" style="margin-top: 10px; margin-bottom: 20px;">
-  <a href="https://github.com/bm0x" target="_blank" title="GitHub Followers">
+<div align="center" style="margin-top: 10px; margin-bottom: 10px;">
+  <a href="https://github.com/bm0x" target="_blank">
     <img src="https://img.shields.io/github/followers/bm0x?label=Followers&style=for-the-badge&color=2b9348" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/bm0x" target="_blank" title="GitHub Stars" style="margin-left: 10px;">
-    <img src="https://img.shields.io/github/stars/bm0x?label=Stars&style=for-the-badge&color=ef4444" alt="GitHub Stars" />
+  <a href="https://github.com/bm0x?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/github/stars/bm0x?label=Stars&style=for-the-badge&color=ef4444&affiliations=OWNER%2CCOLLABORATOR" alt="GitHub Stars" />
   </a>
 </div>
 
 ---
 
-<br clear="both">
+## 🙋 Sobre mí
 
 <img align="right" height="200" src="https://media1.tenor.com/m/Wi1ZJSY5U8gAAAAC/toji-fushiguro.gif" />
 
-<div align="left">
-  <a href="https://open.spotify.com/user/12140273975">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=12140273975&count=3" alt="Spotify recently played" />
-  </a>
-</div>
-
----
+- 🔭 &nbsp;Actualmente en el **Top 7 Semanal de Contribuciones Totales en GitHub Chile**
+- 🚀 &nbsp;Construyo soluciones **confiables, escalables y humanas**
+- 💡 &nbsp;Apasionado por la innovación útil y la tecnología accesible
+- 🌱 &nbsp;Siempre aprendiendo y evolucionando
+- 🎵 &nbsp;Escuchando música en [Spotify](https://open.spotify.com/user/12140273975)
+- 📍 &nbsp;Los Ángeles, Chile
 
 <br clear="both">
+
+---
 
 <img src="https://raw.githubusercontent.com/bm0x/bm0x/output/snake.svg" alt="Snake animation" />
 
 ---
 
-<div align="center">
-  <h3>🧠 Tecnologías que uso y amo:</h3>
-</div>
+## 🧠 Tecnologías que uso y amo
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="Vue" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" alt="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="Vue" title="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" alt="Android" title="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite" title="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash" title="Bash" />
 </div>
 
 ---
 
-<div align="center">
-  <h3>📊 Estadísticas y actividad</h3>
-</div>
+## 📊 Estadísticas y actividad
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bm0x&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=es&hide_border=false" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=bm0x&locale=es&mode=weekly&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bm0x&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=aura&hide_border=false" height="150" alt="languages graph" />
-  <img src="https://github-profile-trophy-kannan.vercel.app/?username=bm0x&theme=apprentice&column=5" height="150" alt="trophy graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bm0x&theme=one-dark" height="150" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bm0x&theme=tokyo-night&area=true" height="150" alt="activity-graph graph" />
+</div>
+
+---
+
+## 🏆 Trofeos
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bm0x&theme=apprentice&no-frame=false&no-bg=true&margin-w=4&column=6" alt="trophy graph" />
 </div>
 
 ---
