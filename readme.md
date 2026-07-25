@@ -79,13 +79,29 @@
 ## 📊 Estadísticas y actividad
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bm0x&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=es&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=bm0x&locale=es&mode=weekly&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bm0x&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=es&hide_border=true&cache_seconds=21600" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=bm0x&show_icons=true&include_all_commits=true&count_private=true&theme=default&locale=es&hide_border=true&cache_seconds=21600" />
+    <img height="165" alt="GitHub Stats de bm0x" src="https://github-readme-stats.vercel.app/api?username=bm0x&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=es&hide_border=true&cache_seconds=21600" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=bm0x&theme=tokyonight&locale=es&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=bm0x&theme=default&locale=es&hide_border=true" />
+    <img height="165" alt="GitHub Streak de bm0x" src="https://streak-stats.demolab.com?user=bm0x&theme=tokyonight&locale=es&hide_border=true" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bm0x&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=aura&hide_border=false" height="150" alt="languages graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bm0x&theme=tokyo-night&area=true" height="150" alt="activity-graph graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bm0x&layout=compact&langs_count=10&theme=tokyonight&locale=es&hide_border=true&cache_seconds=21600" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bm0x&layout=compact&langs_count=10&theme=default&locale=es&hide_border=true&cache_seconds=21600" />
+    <img height="165" alt="Top Lenguajes de bm0x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bm0x&layout=compact&langs_count=10&theme=tokyonight&locale=es&hide_border=true&cache_seconds=21600" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bm0x&theme=tokyo-night&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bm0x&theme=github-light&area=true&hide_border=true" />
+    <img height="165" alt="Actividad de contribuciones de bm0x" src="https://github-readme-activity-graph.vercel.app/graph?username=bm0x&theme=tokyo-night&area=true&hide_border=true" />
+  </picture>
 </div>
 
 ---
@@ -93,7 +109,11 @@
 ## 🏆 Trofeos
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bm0x&theme=apprentice&no-frame=false&no-bg=true&margin-w=4&column=6" alt="trophy graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=bm0x&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=bm0x&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" />
+    <img alt="Trofeos de bm0x" src="https://github-profile-trophy.vercel.app/?username=bm0x&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" />
+  </picture>
 </div>
 
 ---
