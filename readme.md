@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A277FF&center=true&vCenter=true&width=600&lines=👋+¡Hola!+Soy+bm0x+(Rafael+Méndez);Full-Stack+%2F+Android+Developer;Construyo+soluciones+con+propósito+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A277FF&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+bm0x+(Rafael+M%C3%A9ndez);Full-Stack+%2F+Android+Developer;Construyo+soluciones+con+prop%C3%B3sito+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🌎 Desarrollador desde Los Ángeles, Chile</h3>
@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bm0x&label=Visitas+al+perfil&color=a277ff&style=for-the-badge" alt="Profile views" />
   <a href="https://github.com/sponsors/bm0x">
-    <img src="https://img.shields.io/badge/%F0%9F%92%96%20Apóyame%20en%20GitHub%20Sponsors-orange?style=for-the-badge" alt="Apóyame en GitHub Sponsors" />
+    <img src="https://img.shields.io/badge/%F0%9F%92%96%20Ap%C3%B3yame%20en%20GitHub%20Sponsors-orange?style=for-the-badge" alt="Apóyame en GitHub Sponsors" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@
   <a href="https://www.instagram.com/idk_bm0x" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
   </a>
-  <a href="https://twitch.tv/elbm0x" target="_blank">
+  <a href="https://www.twitch.tv/elbm0x" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="35" alt="Twitch" />
   </a>
   <a href="mailto:rafy.pachecomendez@gmail.com" target="_blank">
