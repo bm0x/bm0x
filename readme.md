@@ -58,8 +58,9 @@
 ### 📌 Resumen anual dinámico
 <!-- DYNAMIC:ACTIVITY_SUMMARY:START -->
 - **Periodo analizado:** 12-08-2025 → 12-08-2026
-- **Contribuciones totales:** 199
+- **Contribuciones totales:** 202
 - **Repositorios con actividad detectada:** 10 (10 públicos, 0 privados)
+- **Repos privados accesibles por token:** 60
 <!-- DYNAMIC:ACTIVITY_SUMMARY:END -->
 
 ### 📂 Repositorios recientes (públicos y privados)
@@ -68,14 +69,37 @@
 | --- | --- | --- |
 | bm0x/KubeControlMC | Público | 89 |
 | bm0x/MorphicOS-Dev | Público | 62 |
+| bm0x/bm0x | Público | 17 |
 | bm0x/KubeControlPlugin | Público | 16 |
-| bm0x/bm0x | Público | 14 |
 | bm0x/Simetrio | Público | 9 |
 | bm0x/StralyxOS | Público | 5 |
 | bm0x/skills-introduction-to-github | Público | 1 |
 | SavedByLight/android_device_samsung_a17x | Público | 1 |
 | spacedriveapp/spacedrive | Público | 1 |
 | bm0x/android_packages_apps_Catapult | Público | 1 |
+
+> ⚠️ **Privados detectados con actividad parcial:** 20
+> Estos repos son accesibles por token, pero no aparecieron en el consolidado de contribuciones por repositorio.
+> - bm0x/codedall-e
+> - bm0x/SynaptIQ-Core
+> - bm0x/Onirion-Dev
+> - bm0x/Juridica
+> - bm0x/HappyBar
+> - bm0x/Focally
+> - bm0x/serene-pascal
+> - bm0x/Onirion-Mini
+> - bm0x/bm0x-page
+> - bm0x/sat-fy
+> - bm0x/dty-fy
+> - bm0x/Zedan-Web
+> - bm0x/NexusCalendar
+> - bm0x/HorusX
+> - bm0x/HybridLand
+> - bm0x/plexus-back
+> - bm0x/rdp-control
+> - bm0x/pcAPI
+> - bm0x/MagerLAB
+> - bm0x/Turnyx
 <!-- DYNAMIC:RECENT_PROJECTS:END -->
 
 ---
