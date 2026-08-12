@@ -53,12 +53,19 @@
 
 ## 🛠️ Proyectos en los que estoy trabajando
 
-> Aquí iré mostrando proyectos activos (públicos o privados) con actividad verificable.
+> Se actualiza automáticamente con actividad de los últimos 12 meses (sin links).
 
-| Proyecto | Tipo | Actividad verificable |
+### 📌 Resumen anual dinámico
+<!-- DYNAMIC:ACTIVITY_SUMMARY:START -->
+- Actualizando resumen anual...
+<!-- DYNAMIC:ACTIVITY_SUMMARY:END -->
+
+### 📂 Repositorios recientes (públicos y privados)
+<!-- DYNAMIC:RECENT_PROJECTS:START -->
+| Repositorio | Tipo | Aportes (12 meses) |
 | --- | --- | --- |
-| [Nombre del proyecto público](https://github.com/bm0x/REPO_PUBLICO) | Público | Commits, issues y PRs visibles |
-| [Nombre del proyecto privado](https://github.com/users/bm0x/projects) | Privado | Contribuciones privadas reflejadas en el gráfico de actividad |
+| Actualizando... | - | - |
+<!-- DYNAMIC:RECENT_PROJECTS:END -->
 
 ---
 
