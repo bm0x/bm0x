@@ -57,14 +57,26 @@
 
 ### 📌 Resumen anual dinámico
 <!-- DYNAMIC:ACTIVITY_SUMMARY:START -->
-- Actualizando resumen anual...
+- **Periodo analizado:** 12-08-2025 → 12-08-2026
+- **Contribuciones totales:** 194
+- **Repositorios con actividad detectada:** 10 (10 públicos, 0 privados)
+- **Fuente:** GITHUB_TOKEN (actividad pública; para incluir privados agrega `PROFILE_ACTIVITY_TOKEN`)
 <!-- DYNAMIC:ACTIVITY_SUMMARY:END -->
 
 ### 📂 Repositorios recientes (públicos y privados)
 <!-- DYNAMIC:RECENT_PROJECTS:START -->
 | Repositorio | Tipo | Aportes (12 meses) |
 | --- | --- | --- |
-| Actualizando... | - | - |
+| bm0x/KubeControlMC | Público | 89 |
+| bm0x/MorphicOS-Dev | Público | 62 |
+| bm0x/KubeControlPlugin | Público | 16 |
+| bm0x/bm0x | Público | 9 |
+| bm0x/Simetrio | Público | 9 |
+| bm0x/StralyxOS | Público | 5 |
+| bm0x/skills-introduction-to-github | Público | 1 |
+| SavedByLight/android_device_samsung_a17x | Público | 1 |
+| spacedriveapp/spacedrive | Público | 1 |
+| bm0x/android_packages_apps_Catapult | Público | 1 |
 <!-- DYNAMIC:RECENT_PROJECTS:END -->
 
 ---
