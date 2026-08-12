@@ -60,7 +60,6 @@
 - **Periodo analizado:** 12-08-2025 → 12-08-2026
 - **Contribuciones totales:** 195
 - **Repositorios con actividad detectada:** 10 (10 públicos, 0 privados)
-- **Fuente:** token personal (incluye actividad privada según permisos del token)
 <!-- DYNAMIC:ACTIVITY_SUMMARY:END -->
 
 ### 📂 Repositorios recientes (públicos y privados)

@@ -29,7 +29,6 @@ jobs:
 
             const username = process.env.PROFILE_USERNAME;
             const showPrivateNames = process.env.SHOW_PRIVATE_REPO_NAMES === "true";
-            const usingPersonalToken = Boolean(process.env.PROFILE_ACTIVITY_TOKEN);
             const readmePath = path.join(process.env.GITHUB_WORKSPACE, "readme.md");
 
             const now = new Date();
@@ -122,9 +121,6 @@ jobs:
               `- **Periodo analizado:** ${fmtDate(from)} → ${fmtDate(now)}`,
               `- **Contribuciones totales:** ${totalContributions}`,
               `- **Repositorios con actividad detectada:** ${repos.length} (${totalPublicRepos} públicos, ${totalPrivateRepos} privados)`,
-              usingPersonalToken
-                ? `- **Fuente:** token personal (incluye actividad privada según permisos del token)`
-                : `- **Fuente:** GITHUB_TOKEN (actividad pública; para incluir privados agrega \`PROFILE_ACTIVITY_TOKEN\`)`,
             ];
 
             let privateAliasIndex = 1;
