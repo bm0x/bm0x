@@ -51,6 +51,17 @@
 
 ---
 
+## 🛠️ Proyectos en los que estoy trabajando
+
+> Aquí iré mostrando proyectos activos (públicos o privados) con actividad verificable.
+
+| Proyecto | Tipo | Actividad verificable |
+| --- | --- | --- |
+| [Nombre del proyecto público](https://github.com/bm0x/REPO_PUBLICO) | Público | Commits, issues y PRs visibles |
+| [Nombre del proyecto privado](https://github.com/users/bm0x/projects) | Privado | Contribuciones privadas reflejadas en el gráfico de actividad |
+
+---
+
 <img src="https://raw.githubusercontent.com/bm0x/bm0x/output/snake.svg" alt="Snake animation" />
 
 ---
