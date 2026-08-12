@@ -15,30 +15,106 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Validate profile activity token
+        env:
+          PROFILE_ACTIVITY_TOKEN: ${{ secrets.PROFILE_ACTIVITY_TOKEN }}
+        run: |
+          if [ -z "${PROFILE_ACTIVITY_TOKEN}" ]; then
+            echo "PROFILE_ACTIVITY_TOKEN no está configurado." >&2
+            exit 1
+          fi
+
       - name: Update dynamic sections in readme.md
         uses: actions/github-script@v7
         env:
           PROFILE_USERNAME: ${{ vars.PROFILE_USERNAME || github.repository_owner }}
           SHOW_PRIVATE_REPO_NAMES: ${{ vars.SHOW_PRIVATE_REPO_NAMES || 'false' }}
+          REQUIRE_PRIVATE_REPO_ACCESS: ${{ vars.REQUIRE_PRIVATE_REPO_ACCESS || 'true' }}
+          PRIVATE_REPOS_FALLBACK_LIMIT: ${{ vars.PRIVATE_REPOS_FALLBACK_LIMIT || '20' }}
           PROFILE_ACTIVITY_TOKEN: ${{ secrets.PROFILE_ACTIVITY_TOKEN }}
         with:
-          github-token: ${{ secrets.PROFILE_ACTIVITY_TOKEN != '' && secrets.PROFILE_ACTIVITY_TOKEN || github.token }}
+          github-token: ${{ secrets.PROFILE_ACTIVITY_TOKEN }}
           script: |
             const fs = require("fs/promises");
             const path = require("path");
 
             const username = process.env.PROFILE_USERNAME;
             const showPrivateNames = process.env.SHOW_PRIVATE_REPO_NAMES === "true";
+            const requirePrivateRepoAccess = process.env.REQUIRE_PRIVATE_REPO_ACCESS !== "false";
+            const fallbackPrivateLimit = Math.max(
+              1,
+              Number.parseInt(process.env.PRIVATE_REPOS_FALLBACK_LIMIT || "20", 10) || 20
+            );
             const readmePath = path.join(process.env.GITHUB_WORKSPACE, "readme.md");
+            const tokenName = "PROFILE_ACTIVITY_TOKEN";
+
+            if (!process.env.PROFILE_ACTIVITY_TOKEN) {
+              core.setFailed(
+                `Falta ${tokenName}. Configura un Fine-grained PAT con acceso de lectura a repos privados y GraphQL.`
+              );
+              return;
+            }
 
             const now = new Date();
             const from = new Date(now);
             from.setFullYear(from.getFullYear() - 1);
 
+            const preflightQuery = `
+              query($login: String!, $privateFirst: Int!) {
+                viewer {
+                  login
+                }
+                user(login: $login) {
+                  login
+                  repositories(
+                    privacy: PRIVATE
+                    first: $privateFirst
+                    orderBy: { field: UPDATED_AT, direction: DESC }
+                  ) {
+                    totalCount
+                    nodes {
+                      nameWithOwner
+                      isPrivate
+                      updatedAt
+                    }
+                  }
+                }
+              }
+            `;
+
+            const preflight = await github.graphql(preflightQuery, {
+              login: username,
+              privateFirst: fallbackPrivateLimit,
+            });
+
+            const viewerLogin = preflight?.viewer?.login;
+            const userNode = preflight?.user;
+            if (!userNode) {
+              core.setFailed(`No se pudo resolver el usuario de perfil: ${username}.`);
+              return;
+            }
+
+            if (viewerLogin?.toLowerCase() !== username?.toLowerCase()) {
+              core.warning(
+                `El token pertenece a '${viewerLogin}' y no a '${username}'. Revisa alcance del token y SSO en organizaciones.`
+              );
+            }
+
+            const privateAccessibleNodes = userNode?.repositories?.nodes || [];
+            const privateAccessibleCount = userNode?.repositories?.totalCount || 0;
+
+            if (requirePrivateRepoAccess && privateAccessibleCount === 0) {
+              core.setFailed(
+                "El token no detecta repos privados accesibles. Revisa permisos del Fine-grained PAT, acceso a repos seleccionados y aprobación SSO de organizaciones."
+              );
+              return;
+            }
+
             const query = `
               query($login: String!, $from: DateTime!, $to: DateTime!) {
                 user(login: $login) {
                   contributionsCollection(from: $from, to: $to) {
+                    hasAnyRestrictedContributions
                     totalCommitContributions
                     totalIssueContributions
                     totalPullRequestContributions
@@ -97,18 +173,25 @@ jobs:
             addContributions(collection.pullRequestContributionsByRepository);
             addContributions(collection.pullRequestReviewContributionsByRepository);
 
-            const repos = [...repoMap.values()]
+            const reposWithContributions = [...repoMap.values()]
               .filter((repo) => repo.contributions > 0)
-              .sort((a, b) => b.contributions - a.contributions)
-              .slice(0, 20);
+              .sort((a, b) => b.contributions - a.contributions);
 
-            const totalPublicRepos = repos.filter((repo) => !repo.isPrivate).length;
-            const totalPrivateRepos = repos.filter((repo) => repo.isPrivate).length;
+            const repos = reposWithContributions.slice(0, 20);
+
+            const totalPublicRepos = reposWithContributions.filter((repo) => !repo.isPrivate).length;
+            const totalPrivateRepos = reposWithContributions.filter((repo) => repo.isPrivate).length;
             const totalContributions =
               (collection.totalCommitContributions || 0) +
               (collection.totalIssueContributions || 0) +
               (collection.totalPullRequestContributions || 0) +
               (collection.totalPullRequestReviewContributions || 0);
+            const privateContribRepoNames = new Set(
+              reposWithContributions.filter((repo) => repo.isPrivate).map((repo) => repo.name)
+            );
+            const partialPrivateRepos = privateAccessibleNodes
+              .filter((repo) => repo?.isPrivate && !privateContribRepoNames.has(repo.nameWithOwner))
+              .slice(0, fallbackPrivateLimit);
 
             const fmtDate = (date) =>
               date.toLocaleDateString("es-CL", {
@@ -120,7 +203,8 @@ jobs:
             const summaryLines = [
               `- **Periodo analizado:** ${fmtDate(from)} → ${fmtDate(now)}`,
               `- **Contribuciones totales:** ${totalContributions}`,
-              `- **Repositorios con actividad detectada:** ${repos.length} (${totalPublicRepos} públicos, ${totalPrivateRepos} privados)`,
+              `- **Repositorios con actividad detectada:** ${reposWithContributions.length} (${totalPublicRepos} públicos, ${totalPrivateRepos} privados)`,
+              `- **Repos privados accesibles por token:** ${privateAccessibleCount}`,
             ];
 
             let privateAliasIndex = 1;
@@ -142,6 +226,33 @@ jobs:
                 );
               }
             }
+
+            if (partialPrivateRepos.length > 0) {
+              tableLines.push("");
+              tableLines.push(
+                `> ⚠️ **Privados detectados con actividad parcial:** ${partialPrivateRepos.length}`
+              );
+              tableLines.push(
+                "> Estos repos son accesibles por token, pero no aparecieron en el consolidado de contribuciones por repositorio."
+              );
+              for (const repo of partialPrivateRepos) {
+                const label = showPrivateNames
+                  ? repo.nameWithOwner
+                  : `Repositorio privado parcial #${privateAliasIndex++}`;
+                tableLines.push(`> - ${label.replaceAll("|", "\\|")}`);
+              }
+            }
+
+            const privateMissingFromContrib = Math.max(
+              0,
+              privateAccessibleCount - privateContribRepoNames.size
+            );
+            core.info(
+              `[diagnostics] token=${tokenName}; viewer=${viewerLogin}; profile=${username}; private_accessible=${privateAccessibleCount}; private_in_contributions=${privateContribRepoNames.size}; private_partial_listed=${partialPrivateRepos.length}; private_missing_from_contributions=${privateMissingFromContrib}; restricted_contributions=${collection.hasAnyRestrictedContributions ? "true" : "false"}`
+            );
+            core.notice(
+              "Verifica en tu cuenta GitHub la opción 'Include private contributions on my profile' y, si aplica, aprobación SSO del token en organizaciones."
+            );
 
             const replaceSection = (content, marker, body) => {
               const start = `<!-- DYNAMIC:${marker}:START -->`;
