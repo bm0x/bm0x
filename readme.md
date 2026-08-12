@@ -51,6 +51,24 @@
 
 ---
 
+## 🛠️ Proyectos en los que estoy trabajando
+
+> Se actualiza automáticamente con actividad de los últimos 12 meses (sin links).
+
+### 📌 Resumen anual dinámico
+<!-- DYNAMIC:ACTIVITY_SUMMARY:START -->
+- Actualizando resumen anual...
+<!-- DYNAMIC:ACTIVITY_SUMMARY:END -->
+
+### 📂 Repositorios recientes (públicos y privados)
+<!-- DYNAMIC:RECENT_PROJECTS:START -->
+| Repositorio | Tipo | Aportes (12 meses) |
+| --- | --- | --- |
+| Actualizando... | - | - |
+<!-- DYNAMIC:RECENT_PROJECTS:END -->
+
+---
+
 <img src="https://raw.githubusercontent.com/bm0x/bm0x/output/snake.svg" alt="Snake animation" />
 
 ---
