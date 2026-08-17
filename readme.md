@@ -58,7 +58,7 @@
 ### 📌 Resumen anual dinámico
 <!-- DYNAMIC:ACTIVITY_SUMMARY:START -->
 - **Periodo analizado:** 17-08-2025 → 17-08-2026
-- **Contribuciones totales:** 215
+- **Contribuciones totales:** 221
 - **Repositorios con actividad detectada:** 10 (10 públicos, 0 privados)
 - **Repos privados accesibles por token:** 60
 <!-- DYNAMIC:ACTIVITY_SUMMARY:END -->
@@ -67,9 +67,9 @@
 <!-- DYNAMIC:RECENT_PROJECTS:START -->
 | Repositorio | Tipo | Aportes (12 meses) |
 | --- | --- | --- |
-| bm0x/KubeControlMC | Público | 93 |
+| bm0x/KubeControlMC | Público | 98 |
 | bm0x/MorphicOS-Dev | Público | 62 |
-| bm0x/bm0x | Público | 26 |
+| bm0x/bm0x | Público | 27 |
 | bm0x/KubeControlPlugin | Público | 16 |
 | bm0x/Simetrio | Público | 9 |
 | bm0x/StralyxOS | Público | 5 |
