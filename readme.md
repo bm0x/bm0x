@@ -57,10 +57,10 @@
 
 ### 📌 Resumen anual dinámico
 <!-- DYNAMIC:ACTIVITY_SUMMARY:START -->
-- **Periodo analizado:** 25-08-2025 → 25-08-2026
-- **Contribuciones totales:** 237
+- **Periodo analizado:** 26-08-2025 → 26-08-2026
+- **Contribuciones totales:** 238
 - **Repositorios con actividad detectada:** 10 (10 públicos, 0 privados)
-- **Repos privados accesibles por token:** 60
+- **Repos privados accesibles por token:** 61
 <!-- DYNAMIC:ACTIVITY_SUMMARY:END -->
 
 ### 📂 Repositorios recientes (públicos y privados)
@@ -69,7 +69,7 @@
 | --- | --- | --- |
 | bm0x/KubeControlMC | Público | 98 |
 | bm0x/MorphicOS-Dev | Público | 62 |
-| bm0x/bm0x | Público | 43 |
+| bm0x/bm0x | Público | 44 |
 | bm0x/KubeControlPlugin | Público | 16 |
 | bm0x/Simetrio | Público | 9 |
 | bm0x/StralyxOS | Público | 5 |
@@ -80,6 +80,7 @@
 
 > ⚠️ **Privados detectados con actividad parcial:** 20
 > Estos repos son accesibles por token, pero no aparecieron en el consolidado de contribuciones por repositorio.
+> - bm0x/picoclaw-private
 > - bm0x/codedall-e
 > - bm0x/SynaptIQ-Core
 > - bm0x/HappyBar
@@ -99,7 +100,6 @@
 > - bm0x/rdp-control
 > - bm0x/pcAPI
 > - bm0x/MagerLAB
-> - bm0x/Turnyx
 <!-- DYNAMIC:RECENT_PROJECTS:END -->
 
 ---
