@@ -58,7 +58,7 @@
 ### 📌 Resumen anual dinámico
 <!-- DYNAMIC:ACTIVITY_SUMMARY:START -->
 - **Periodo analizado:** 04-09-2025 → 04-09-2026
-- **Contribuciones totales:** 263
+- **Contribuciones totales:** 268
 - **Repositorios con actividad detectada:** 10 (10 públicos, 0 privados)
 - **Repos privados accesibles por token:** 63
 <!-- DYNAMIC:ACTIVITY_SUMMARY:END -->
@@ -75,7 +75,7 @@
         </thead>
         <tbody>
           <tr><td>bm0x/KubeControlMC</td><td>98</td></tr>
-          <tr><td>bm0x/bm0x</td><td>69</td></tr>
+          <tr><td>bm0x/bm0x</td><td>74</td></tr>
           <tr><td>bm0x/MorphicOS-Dev</td><td>62</td></tr>
           <tr><td>bm0x/KubeControlPlugin</td><td>16</td></tr>
           <tr><td>bm0x/Simetrio</td><td>9</td></tr>
@@ -94,35 +94,31 @@
           <tr><th>Repositorio</th><th>Aportes (12 meses)</th></tr>
         </thead>
         <tbody>
-          <tr><td>Sin actividad detectada en el periodo</td><td>-</td></tr>
+          <tr><td>bm0x/HarmonyControl</td><td>Actividad parcial</td></tr>
+          <tr><td>bm0x/picoclaw-private</td><td>Actividad parcial</td></tr>
+          <tr><td>bm0x/pcAPI</td><td>Actividad parcial</td></tr>
+          <tr><td>bm0x/tenda-mifi-admin</td><td>Actividad parcial</td></tr>
+          <tr><td>bm0x/Onirion-Dev</td><td>Actividad parcial</td></tr>
+          <tr><td>bm0x/SynaptIQ-Core</td><td>Actividad parcial</td></tr>
+          <tr><td>bm0x/Onirion-Mini</td><td>Actividad parcial</td></tr>
+          <tr><td>bm0x/codedall-e</td><td>Actividad parcial</td></tr>
+          <tr><td>bm0x/HappyBar</td><td>Actividad parcial</td></tr>
+          <tr><td>bm0x/Juridica</td><td>Actividad parcial</td></tr>
+          <tr><td>bm0x/Focally</td><td>Actividad parcial</td></tr>
+          <tr><td>bm0x/serene-pascal</td><td>Actividad parcial</td></tr>
+          <tr><td>bm0x/bm0x-page</td><td>Actividad parcial</td></tr>
+          <tr><td>bm0x/sat-fy</td><td>Actividad parcial</td></tr>
+          <tr><td>bm0x/dty-fy</td><td>Actividad parcial</td></tr>
+          <tr><td>bm0x/Zedan-Web</td><td>Actividad parcial</td></tr>
+          <tr><td>bm0x/NexusCalendar</td><td>Actividad parcial</td></tr>
+          <tr><td>bm0x/HorusX</td><td>Actividad parcial</td></tr>
+          <tr><td>bm0x/HybridLand</td><td>Actividad parcial</td></tr>
+          <tr><td>bm0x/plexus-back</td><td>Actividad parcial</td></tr>
         </tbody>
       </table>
     </td>
   </tr>
 </table>
-
-> ⚠️ **Privados detectados con actividad parcial:** 20
-> Estos repos son accesibles por token, pero no aparecieron en el consolidado de contribuciones por repositorio.
-> - bm0x/HarmonyControl
-> - bm0x/picoclaw-private
-> - bm0x/pcAPI
-> - bm0x/tenda-mifi-admin
-> - bm0x/Onirion-Dev
-> - bm0x/SynaptIQ-Core
-> - bm0x/Onirion-Mini
-> - bm0x/codedall-e
-> - bm0x/HappyBar
-> - bm0x/Juridica
-> - bm0x/Focally
-> - bm0x/serene-pascal
-> - bm0x/bm0x-page
-> - bm0x/sat-fy
-> - bm0x/dty-fy
-> - bm0x/Zedan-Web
-> - bm0x/NexusCalendar
-> - bm0x/HorusX
-> - bm0x/HybridLand
-> - bm0x/plexus-back
 <!-- DYNAMIC:RECENT_PROJECTS:END -->
 
 ---
