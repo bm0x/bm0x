@@ -65,18 +65,41 @@
 
 ### 📂 Repositorios recientes (públicos y privados)
 <!-- DYNAMIC:RECENT_PROJECTS:START -->
-| Repositorio | Tipo | Aportes (12 meses) |
-| --- | --- | --- |
-| bm0x/KubeControlMC | Público | 98 |
-| bm0x/bm0x | Público | 69 |
-| bm0x/MorphicOS-Dev | Público | 62 |
-| bm0x/KubeControlPlugin | Público | 16 |
-| bm0x/Simetrio | Público | 9 |
-| bm0x/StralyxOS | Público | 5 |
-| bm0x/skills-introduction-to-github | Público | 1 |
-| SavedByLight/android_device_samsung_a17x | Público | 1 |
-| spacedriveapp/spacedrive | Público | 1 |
-| bm0x/android_packages_apps_Catapult | Público | 1 |
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>🌍 Repos públicos</strong><br><br>
+      <table>
+        <thead>
+          <tr><th>Repositorio</th><th>Aportes (12 meses)</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>bm0x/KubeControlMC</td><td>98</td></tr>
+          <tr><td>bm0x/bm0x</td><td>69</td></tr>
+          <tr><td>bm0x/MorphicOS-Dev</td><td>62</td></tr>
+          <tr><td>bm0x/KubeControlPlugin</td><td>16</td></tr>
+          <tr><td>bm0x/Simetrio</td><td>9</td></tr>
+          <tr><td>bm0x/StralyxOS</td><td>5</td></tr>
+          <tr><td>bm0x/skills-introduction-to-github</td><td>1</td></tr>
+          <tr><td>SavedByLight/android_device_samsung_a17x</td><td>1</td></tr>
+          <tr><td>spacedriveapp/spacedrive</td><td>1</td></tr>
+          <tr><td>bm0x/android_packages_apps_Catapult</td><td>1</td></tr>
+        </tbody>
+      </table>
+    </td>
+    <td valign="top" width="50%">
+      <strong>🔒 Repos privados</strong><br><br>
+      <table>
+        <thead>
+          <tr><th>Repositorio</th><th>Aportes (12 meses)</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Sin actividad detectada en el periodo</td><td>-</td></tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+</table>
 
 > ⚠️ **Privados detectados con actividad parcial:** 20
 > Estos repos son accesibles por token, pero no aparecieron en el consolidado de contribuciones por repositorio.

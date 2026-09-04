@@ -177,7 +177,12 @@ jobs:
               .filter((repo) => repo.contributions > 0)
               .sort((a, b) => b.contributions - a.contributions);
 
-            const repos = reposWithContributions.slice(0, 20);
+            const publicRepos = reposWithContributions
+              .filter((repo) => !repo.isPrivate)
+              .slice(0, 20);
+            const privateRepos = reposWithContributions
+              .filter((repo) => repo.isPrivate)
+              .slice(0, 20);
 
             const totalPublicRepos = reposWithContributions.filter((repo) => !repo.isPrivate).length;
             const totalPrivateRepos = reposWithContributions.filter((repo) => repo.isPrivate).length;
@@ -208,24 +213,55 @@ jobs:
             ];
 
             let privateAliasIndex = 1;
-            const tableLines = [
-              "| Repositorio | Tipo | Aportes (12 meses) |",
-              "| --- | --- | --- |",
-            ];
+            const escapeHtml = (value) =>
+              value
+                .replaceAll("&", "&amp;")
+                .replaceAll("<", "&lt;")
+                .replaceAll(">", "&gt;")
+                .replaceAll('"', "&quot;")
+                .replaceAll("'", "&#39;");
+            const renderRepoTable = (repos, isPrivateSection = false) => {
+              const lines = [
+                "<table>",
+                "  <thead>",
+                "    <tr><th>Repositorio</th><th>Aportes (12 meses)</th></tr>",
+                "  </thead>",
+                "  <tbody>",
+              ];
 
-            if (repos.length === 0) {
-              tableLines.push("| Sin actividad detectada en el periodo | - | - |");
-            } else {
-              for (const repo of repos) {
-                const repositoryName = repo.isPrivate && !showPrivateNames
-                  ? `Repositorio privado #${privateAliasIndex++}`
-                  : repo.name;
-                const safeName = repositoryName.replaceAll("|", "\\|");
-                tableLines.push(
-                  `| ${safeName} | ${repo.isPrivate ? "Privado" : "Público"} | ${repo.contributions} |`
-                );
+              if (repos.length === 0) {
+                lines.push("    <tr><td>Sin actividad detectada en el periodo</td><td>-</td></tr>");
+              } else {
+                for (const repo of repos) {
+                  const repositoryName =
+                    isPrivateSection && !showPrivateNames
+                      ? `Repositorio privado #${privateAliasIndex++}`
+                      : repo.name;
+                  lines.push(
+                    `    <tr><td>${escapeHtml(repositoryName)}</td><td>${repo.contributions}</td></tr>`
+                  );
+                }
               }
-            }
+
+              lines.push("  </tbody>");
+              lines.push("</table>");
+              return lines;
+            };
+
+            const tableLines = [
+              "<table>",
+              "  <tr>",
+              "    <td valign=\"top\" width=\"50%\">",
+              "      <strong>🌍 Repos públicos</strong><br><br>",
+              ...renderRepoTable(publicRepos).map((line) => `      ${line}`),
+              "    </td>",
+              "    <td valign=\"top\" width=\"50%\">",
+              "      <strong>🔒 Repos privados</strong><br><br>",
+              ...renderRepoTable(privateRepos, true).map((line) => `      ${line}`),
+              "    </td>",
+              "  </tr>",
+              "</table>",
+            ];
 
             if (partialPrivateRepos.length > 0) {
               tableLines.push("");
