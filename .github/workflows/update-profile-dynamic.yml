@@ -177,12 +177,13 @@ jobs:
               .filter((repo) => repo.contributions > 0)
               .sort((a, b) => b.contributions - a.contributions);
 
+            const maxReposPerTable = 20;
             const publicRepos = reposWithContributions
               .filter((repo) => !repo.isPrivate)
-              .slice(0, 20);
-            const privateRepos = reposWithContributions
+              .slice(0, maxReposPerTable);
+            const privateReposWithContributions = reposWithContributions
               .filter((repo) => repo.isPrivate)
-              .slice(0, 20);
+              .slice(0, maxReposPerTable);
 
             const totalPublicRepos = reposWithContributions.filter((repo) => !repo.isPrivate).length;
             const totalPrivateRepos = reposWithContributions.filter((repo) => repo.isPrivate).length;
@@ -197,6 +198,17 @@ jobs:
             const partialPrivateRepos = privateAccessibleNodes
               .filter((repo) => repo?.isPrivate && !privateContribRepoNames.has(repo.nameWithOwner))
               .slice(0, fallbackPrivateLimit);
+            const privateRepos = [
+              ...privateReposWithContributions,
+              ...partialPrivateRepos
+                .slice(0, Math.max(0, maxReposPerTable - privateReposWithContributions.length))
+                .map((repo) => ({
+                  name: repo.nameWithOwner,
+                  isPrivate: true,
+                  contributions: 0,
+                  contributionsLabel: "Actividad parcial",
+                })),
+            ];
 
             const fmtDate = (date) =>
               date.toLocaleDateString("es-CL", {
@@ -238,7 +250,7 @@ jobs:
                       ? `Repositorio privado #${privateAliasIndex++}`
                       : repo.name;
                   lines.push(
-                    `    <tr><td>${escapeHtml(repositoryName)}</td><td>${repo.contributions}</td></tr>`
+                    `    <tr><td>${escapeHtml(repositoryName)}</td><td>${repo.contributionsLabel || repo.contributions}</td></tr>`
                   );
                 }
               }
@@ -262,22 +274,6 @@ jobs:
               "  </tr>",
               "</table>",
             ];
-
-            if (partialPrivateRepos.length > 0) {
-              tableLines.push("");
-              tableLines.push(
-                `> ⚠️ **Privados detectados con actividad parcial:** ${partialPrivateRepos.length}`
-              );
-              tableLines.push(
-                "> Estos repos son accesibles por token, pero no aparecieron en el consolidado de contribuciones por repositorio."
-              );
-              for (const repo of partialPrivateRepos) {
-                const label = showPrivateNames
-                  ? repo.nameWithOwner
-                  : `Repositorio privado parcial #${privateAliasIndex++}`;
-                tableLines.push(`> - ${label.replaceAll("|", "\\|")}`);
-              }
-            }
 
             const privateMissingFromContrib = Math.max(
               0,
