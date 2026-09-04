@@ -57,10 +57,10 @@
 
 ### 📌 Resumen anual dinámico
 <!-- DYNAMIC:ACTIVITY_SUMMARY:START -->
-- **Periodo analizado:** 03-09-2025 → 03-09-2026
-- **Contribuciones totales:** 259
+- **Periodo analizado:** 04-09-2025 → 04-09-2026
+- **Contribuciones totales:** 262
 - **Repositorios con actividad detectada:** 10 (10 públicos, 0 privados)
-- **Repos privados accesibles por token:** 61
+- **Repos privados accesibles por token:** 63
 <!-- DYNAMIC:ACTIVITY_SUMMARY:END -->
 
 ### 📂 Repositorios recientes (públicos y privados)
@@ -68,7 +68,7 @@
 | Repositorio | Tipo | Aportes (12 meses) |
 | --- | --- | --- |
 | bm0x/KubeControlMC | Público | 98 |
-| bm0x/bm0x | Público | 65 |
+| bm0x/bm0x | Público | 68 |
 | bm0x/MorphicOS-Dev | Público | 62 |
 | bm0x/KubeControlPlugin | Público | 16 |
 | bm0x/Simetrio | Público | 9 |
@@ -80,8 +80,10 @@
 
 > ⚠️ **Privados detectados con actividad parcial:** 20
 > Estos repos son accesibles por token, pero no aparecieron en el consolidado de contribuciones por repositorio.
+> - bm0x/HarmonyControl
 > - bm0x/picoclaw-private
 > - bm0x/pcAPI
+> - bm0x/tenda-mifi-admin
 > - bm0x/Onirion-Dev
 > - bm0x/SynaptIQ-Core
 > - bm0x/Onirion-Mini
@@ -98,8 +100,6 @@
 > - bm0x/HorusX
 > - bm0x/HybridLand
 > - bm0x/plexus-back
-> - bm0x/rdp-control
-> - bm0x/MagerLAB
 <!-- DYNAMIC:RECENT_PROJECTS:END -->
 
 ---
