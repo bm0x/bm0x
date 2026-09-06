@@ -57,8 +57,8 @@
 
 ### 📌 Resumen anual dinámico
 <!-- DYNAMIC:ACTIVITY_SUMMARY:START -->
-- **Periodo analizado:** 05-09-2025 → 05-09-2026
-- **Contribuciones totales:** 270
+- **Periodo analizado:** 06-09-2025 → 06-09-2026
+- **Contribuciones totales:** 271
 - **Repositorios con actividad detectada:** 10 (10 públicos, 0 privados)
 - **Repos privados accesibles por token:** 63
 <!-- DYNAMIC:ACTIVITY_SUMMARY:END -->
@@ -75,7 +75,7 @@
         </thead>
         <tbody>
           <tr><td>bm0x/KubeControlMC</td><td>98</td></tr>
-          <tr><td>bm0x/bm0x</td><td>76</td></tr>
+          <tr><td>bm0x/bm0x</td><td>77</td></tr>
           <tr><td>bm0x/MorphicOS-Dev</td><td>62</td></tr>
           <tr><td>bm0x/KubeControlPlugin</td><td>16</td></tr>
           <tr><td>bm0x/Simetrio</td><td>9</td></tr>
@@ -94,12 +94,13 @@
           <tr><th>Repositorio</th><th>Aportes (12 meses)</th></tr>
         </thead>
         <tbody>
+          <tr><td>bm0x/SynaptIQ-Core</td><td>Actividad parcial</td></tr>
+          <tr><td>bm0x/Onirion-Dev</td><td>Actividad parcial</td></tr>
           <tr><td>bm0x/HarmonyControl</td><td>Actividad parcial</td></tr>
+          <tr><td>bm0x/HorusX</td><td>Actividad parcial</td></tr>
           <tr><td>bm0x/picoclaw-private</td><td>Actividad parcial</td></tr>
           <tr><td>bm0x/pcAPI</td><td>Actividad parcial</td></tr>
           <tr><td>bm0x/tenda-mifi-admin</td><td>Actividad parcial</td></tr>
-          <tr><td>bm0x/Onirion-Dev</td><td>Actividad parcial</td></tr>
-          <tr><td>bm0x/SynaptIQ-Core</td><td>Actividad parcial</td></tr>
           <tr><td>bm0x/Onirion-Mini</td><td>Actividad parcial</td></tr>
           <tr><td>bm0x/codedall-e</td><td>Actividad parcial</td></tr>
           <tr><td>bm0x/HappyBar</td><td>Actividad parcial</td></tr>
@@ -111,7 +112,6 @@
           <tr><td>bm0x/dty-fy</td><td>Actividad parcial</td></tr>
           <tr><td>bm0x/Zedan-Web</td><td>Actividad parcial</td></tr>
           <tr><td>bm0x/NexusCalendar</td><td>Actividad parcial</td></tr>
-          <tr><td>bm0x/HorusX</td><td>Actividad parcial</td></tr>
           <tr><td>bm0x/HybridLand</td><td>Actividad parcial</td></tr>
           <tr><td>bm0x/plexus-back</td><td>Actividad parcial</td></tr>
         </tbody>
