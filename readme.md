@@ -57,10 +57,10 @@
 
 ### 📌 Resumen anual dinámico
 <!-- DYNAMIC:ACTIVITY_SUMMARY:START -->
-- **Periodo analizado:** 06-09-2025 → 06-09-2026
-- **Contribuciones totales:** 272
+- **Periodo analizado:** 07-09-2025 → 07-09-2026
+- **Contribuciones totales:** 273
 - **Repositorios con actividad detectada:** 10 (10 públicos, 0 privados)
-- **Repos privados accesibles por token:** 63
+- **Repos privados accesibles por token:** 64
 <!-- DYNAMIC:ACTIVITY_SUMMARY:END -->
 
 ### 📂 Repositorios recientes (públicos y privados)
@@ -75,7 +75,7 @@
         </thead>
         <tbody>
           <tr><td>bm0x/KubeControlMC</td><td>98</td></tr>
-          <tr><td>bm0x/bm0x</td><td>78</td></tr>
+          <tr><td>bm0x/bm0x</td><td>79</td></tr>
           <tr><td>bm0x/MorphicOS-Dev</td><td>62</td></tr>
           <tr><td>bm0x/KubeControlPlugin</td><td>16</td></tr>
           <tr><td>bm0x/Simetrio</td><td>9</td></tr>
@@ -94,8 +94,9 @@
           <tr><th>Repositorio</th><th>Aportes (12 meses)</th></tr>
         </thead>
         <tbody>
-          <tr><td>bm0x/SynaptIQ-Core</td><td>Actividad parcial</td></tr>
+          <tr><td>bm0x/Gastos-Wallets</td><td>Actividad parcial</td></tr>
           <tr><td>bm0x/Onirion-Dev</td><td>Actividad parcial</td></tr>
+          <tr><td>bm0x/SynaptIQ-Core</td><td>Actividad parcial</td></tr>
           <tr><td>bm0x/HarmonyControl</td><td>Actividad parcial</td></tr>
           <tr><td>bm0x/HorusX</td><td>Actividad parcial</td></tr>
           <tr><td>bm0x/picoclaw-private</td><td>Actividad parcial</td></tr>
@@ -113,7 +114,6 @@
           <tr><td>bm0x/Zedan-Web</td><td>Actividad parcial</td></tr>
           <tr><td>bm0x/NexusCalendar</td><td>Actividad parcial</td></tr>
           <tr><td>bm0x/HybridLand</td><td>Actividad parcial</td></tr>
-          <tr><td>bm0x/plexus-back</td><td>Actividad parcial</td></tr>
         </tbody>
       </table>
     </td>
