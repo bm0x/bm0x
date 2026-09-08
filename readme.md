@@ -143,18 +143,8 @@
 
 <br>
 
-## 🛠️ Proyectos en Desarrollo & Actividad Reciente
+## 📂 Repositorios Recientes (Públicos & Privados)
 
-> *Sincronización automatizada continua vía GitHub Actions.*
-
-### 📌 Resumen Dinámico
-<!-- DYNAMIC:ACTIVITY_SUMMARY:START -->
-- ⏱️ **Periodo activo:** 04-09-2025 → 04-09-2026
-- 📦 **Repositorios en sincronización:** 10 (10 públicos · 0 privados)
-- 🔒 **Repositorios privados indexados:** 63
-<!-- DYNAMIC:ACTIVITY_SUMMARY:END -->
-
-### 📂 Lista de Repositorios (Públicos & Privados)
 <!-- DYNAMIC:RECENT_PROJECTS:START -->
 <table>
   <thead>
