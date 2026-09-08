@@ -28,7 +28,7 @@ jobs:
         uses: actions/github-script@v7
         env:
           PROFILE_USERNAME: ${{ vars.PROFILE_USERNAME || github.repository_owner }}
-          SHOW_PRIVATE_REPO_NAMES: ${{ vars.SHOW_PRIVATE_REPO_NAMES || 'false' }}
+          SHOW_PRIVATE_REPO_NAMES: ${{ vars.SHOW_PRIVATE_REPO_NAMES || 'true' }}
           REQUIRE_PRIVATE_REPO_ACCESS: ${{ vars.REQUIRE_PRIVATE_REPO_ACCESS || 'true' }}
           PRIVATE_REPOS_FALLBACK_LIMIT: ${{ vars.PRIVATE_REPOS_FALLBACK_LIMIT || '20' }}
           PROFILE_ACTIVITY_TOKEN: ${{ secrets.PROFILE_ACTIVITY_TOKEN }}
@@ -218,10 +218,9 @@ jobs:
               });
 
             const summaryLines = [
-              `- **Periodo analizado:** ${fmtDate(from)} → ${fmtDate(now)}`,
-              `- **Contribuciones totales:** ${totalContributions}`,
-              `- **Repositorios con actividad detectada:** ${reposWithContributions.length} (${totalPublicRepos} públicos, ${totalPrivateRepos} privados)`,
-              `- **Repos privados accesibles por token:** ${privateAccessibleCount}`,
+              `- ⏱️ **Periodo activo:** ${fmtDate(from)} → ${fmtDate(now)}`,
+              `- 📦 **Repositorios en sincronización:** ${reposWithContributions.length} (${totalPublicRepos} públicos · ${totalPrivateRepos} privados)`,
+              `- 🔒 **Repositorios privados indexados:** ${privateAccessibleCount}`,
             ];
 
             let privateAliasIndex = 1;
@@ -232,48 +231,47 @@ jobs:
                 .replaceAll(">", "&gt;")
                 .replaceAll('"', "&quot;")
                 .replaceAll("'", "&#39;");
-            const renderRepoTable = (repos, isPrivateSection = false) => {
-              const lines = [
-                "<table>",
-                "  <thead>",
-                "    <tr><th>Repositorio</th><th>Aportes (12 meses)</th></tr>",
-                "  </thead>",
-                "  <tbody>",
-              ];
 
-              if (repos.length === 0) {
-                lines.push("    <tr><td>Sin actividad detectada en el periodo</td><td>-</td></tr>");
-              } else {
-                for (const repo of repos) {
-                  const repositoryName =
-                    isPrivateSection && !showPrivateNames
-                      ? `Repositorio privado #${privateAliasIndex++}`
-                      : repo.name;
-                  lines.push(
-                    `    <tr><td>${escapeHtml(repositoryName)}</td><td>${repo.contributionsLabel || repo.contributions}</td></tr>`
-                  );
-                }
-              }
-
-              lines.push("  </tbody>");
-              lines.push("</table>");
-              return lines;
-            };
-
+            const maxRows = Math.max(publicRepos.length, privateRepos.length);
             const tableLines = [
               "<table>",
-              "  <tr>",
-              "    <td valign=\"top\" width=\"50%\">",
-              "      <strong>🌍 Repos públicos</strong><br><br>",
-              ...renderRepoTable(publicRepos).map((line) => `      ${line}`),
-              "    </td>",
-              "    <td valign=\"top\" width=\"50%\">",
-              "      <strong>🔒 Repos privados</strong><br><br>",
-              ...renderRepoTable(privateRepos, true).map((line) => `      ${line}`),
-              "    </td>",
-              "  </tr>",
-              "</table>",
+              "  <thead>",
+              "    <tr>",
+              "      <th width=\"50%\" align=\"left\">🌐 Repositorios Públicos</th>",
+              "      <th width=\"50%\" align=\"left\">🔒 Repositorios Privados</th>",
+              "    </tr>",
+              "  </thead>",
+              "  <tbody>",
             ];
+
+            if (maxRows === 0) {
+              tableLines.push("    <tr><td colspan=\"2\" align=\"center\">Sin actividad reciente detectada</td></tr>");
+            } else {
+              for (let i = 0; i < maxRows; i++) {
+                const pub = publicRepos[i];
+                const priv = privateRepos[i];
+
+                let pubCell = "-";
+                if (pub) {
+                  const safePubName = escapeHtml(pub.name);
+                  pubCell = `<a href="https://github.com/${safePubName}"><code>${safePubName}</code></a>`;
+                }
+
+                let privCell = "-";
+                if (priv) {
+                  const repositoryName =
+                    !showPrivateNames
+                      ? `Repositorio privado #${privateAliasIndex++}`
+                      : priv.name;
+                  privCell = `<code>${escapeHtml(repositoryName)}</code>`;
+                }
+
+                tableLines.push(`    <tr><td>${pubCell}</td><td>${privCell}</td></tr>`);
+              }
+            }
+
+            tableLines.push("  </tbody>");
+            tableLines.push("</table>");
 
             const privateMissingFromContrib = Math.max(
               0,
