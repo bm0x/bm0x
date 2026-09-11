@@ -154,9 +154,9 @@
     </tr>
   </thead>
   <tbody>
-    <tr><td><a href="https://github.com/bm0x/KubeControlMC"><code>bm0x/KubeControlMC</code></a></td><td><code>bm0x/Onirion-Mini</code></td></tr>
+    <tr><td><a href="https://github.com/bm0x/KubeControlMC"><code>bm0x/KubeControlMC</code></a></td><td><code>bm0x/Onirion-Dev</code></td></tr>
     <tr><td><a href="https://github.com/bm0x/bm0x"><code>bm0x/bm0x</code></a></td><td><code>bm0x/SynaptIQ-Core</code></td></tr>
-    <tr><td><a href="https://github.com/bm0x/MorphicOS-Dev"><code>bm0x/MorphicOS-Dev</code></a></td><td><code>bm0x/Onirion-Dev</code></td></tr>
+    <tr><td><a href="https://github.com/bm0x/MorphicOS-Dev"><code>bm0x/MorphicOS-Dev</code></a></td><td><code>bm0x/Onirion-Mini</code></td></tr>
     <tr><td><a href="https://github.com/bm0x/KubeControlPlugin"><code>bm0x/KubeControlPlugin</code></a></td><td><code>bm0x/pcAPI</code></td></tr>
     <tr><td><a href="https://github.com/bm0x/Simetrio"><code>bm0x/Simetrio</code></a></td><td><code>bm0x/picoclaw-private</code></td></tr>
     <tr><td><a href="https://github.com/bm0x/StralyxOS"><code>bm0x/StralyxOS</code></a></td><td><code>bm0x/Gastos-Wallets</code></td></tr>
