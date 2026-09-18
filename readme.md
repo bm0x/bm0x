@@ -158,8 +158,8 @@
     <tr><td><a href="https://github.com/bm0x/bm0x"><code>bm0x/bm0x</code></a></td><td><code>bm0x/Gastos-Wallets</code></td></tr>
     <tr><td><a href="https://github.com/bm0x/MorphicOS-Dev"><code>bm0x/MorphicOS-Dev</code></a></td><td><code>bm0x/Onirion-Dev</code></td></tr>
     <tr><td><a href="https://github.com/bm0x/KubeControlPlugin"><code>bm0x/KubeControlPlugin</code></a></td><td><code>bm0x/Onirion-Mini</code></td></tr>
-    <tr><td><a href="https://github.com/bm0x/Simetrio"><code>bm0x/Simetrio</code></a></td><td><code>bm0x/pcAPI</code></td></tr>
-    <tr><td><a href="https://github.com/bm0x/TinyCursor"><code>bm0x/TinyCursor</code></a></td><td><code>bm0x/picoclaw-private</code></td></tr>
+    <tr><td><a href="https://github.com/bm0x/TinyCursor"><code>bm0x/TinyCursor</code></a></td><td><code>bm0x/pcAPI</code></td></tr>
+    <tr><td><a href="https://github.com/bm0x/Simetrio"><code>bm0x/Simetrio</code></a></td><td><code>bm0x/picoclaw-private</code></td></tr>
     <tr><td><a href="https://github.com/bm0x/StralyxOS"><code>bm0x/StralyxOS</code></a></td><td><code>bm0x/HarmonyControl</code></td></tr>
     <tr><td><a href="https://github.com/bm0x/skills-introduction-to-github"><code>bm0x/skills-introduction-to-github</code></a></td><td><code>bm0x/HorusX</code></td></tr>
     <tr><td><a href="https://github.com/SavedByLight/android_device_samsung_a17x"><code>SavedByLight/android_device_samsung_a17x</code></a></td><td><code>bm0x/tenda-mifi-admin</code></td></tr>
