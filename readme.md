@@ -160,11 +160,11 @@
     <tr><td><a href="https://github.com/bm0x/KubeControlPlugin"><code>bm0x/KubeControlPlugin</code></a></td><td><code>bm0x/Onirion-Mini</code></td></tr>
     <tr><td><a href="https://github.com/bm0x/TinyCursor"><code>bm0x/TinyCursor</code></a></td><td><code>bm0x/AccesoLA</code></td></tr>
     <tr><td><a href="https://github.com/bm0x/Simetrio"><code>bm0x/Simetrio</code></a></td><td><code>bm0x/Onirion-SII-Bridge</code></td></tr>
-    <tr><td><a href="https://github.com/bm0x/StralyxOS"><code>bm0x/StralyxOS</code></a></td><td><code>bm0x/HorusX</code></td></tr>
-    <tr><td><a href="https://github.com/bm0x/skills-introduction-to-github"><code>bm0x/skills-introduction-to-github</code></a></td><td><code>bm0x/amazing-goodall</code></td></tr>
-    <tr><td><a href="https://github.com/SavedByLight/android_device_samsung_a17x"><code>SavedByLight/android_device_samsung_a17x</code></a></td><td><code>bm0x/dty-fy</code></td></tr>
-    <tr><td><a href="https://github.com/spacedriveapp/spacedrive"><code>spacedriveapp/spacedrive</code></a></td><td><code>bm0x/pcAPI</code></td></tr>
-    <tr><td><a href="https://github.com/bm0x/android_packages_apps_Catapult"><code>bm0x/android_packages_apps_Catapult</code></a></td><td><code>bm0x/picoclaw-private</code></td></tr>
+    <tr><td><a href="https://github.com/bm0x/skills-introduction-to-github"><code>bm0x/skills-introduction-to-github</code></a></td><td><code>bm0x/HorusX</code></td></tr>
+    <tr><td><a href="https://github.com/SavedByLight/android_device_samsung_a17x"><code>SavedByLight/android_device_samsung_a17x</code></a></td><td><code>bm0x/amazing-goodall</code></td></tr>
+    <tr><td><a href="https://github.com/spacedriveapp/spacedrive"><code>spacedriveapp/spacedrive</code></a></td><td><code>bm0x/dty-fy</code></td></tr>
+    <tr><td><a href="https://github.com/bm0x/android_packages_apps_Catapult"><code>bm0x/android_packages_apps_Catapult</code></a></td><td><code>bm0x/pcAPI</code></td></tr>
+    <tr><td>-</td><td><code>bm0x/picoclaw-private</code></td></tr>
     <tr><td>-</td><td><code>bm0x/HarmonyControl</code></td></tr>
     <tr><td>-</td><td><code>bm0x/tenda-mifi-admin</code></td></tr>
     <tr><td>-</td><td><code>bm0x/codedall-e</code></td></tr>
